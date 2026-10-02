@@ -27,7 +27,6 @@ Release/
 x64/
 x86/
 *.vcxproj.user
-*.vcxproj.filters
 
 # VS Code
 .vscode/

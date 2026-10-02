@@ -1,0 +1,44 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.i
+*.s
+
+# 静态/动态库
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# 调试信息
+*.pdb
+*.ilk
+*.idb
+*.suo
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.vcxproj.user
+*.vcxproj.filters
+
+# VS Code
+.vscode/
+
+# 临时/日志文件
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
